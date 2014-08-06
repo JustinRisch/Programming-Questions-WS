@@ -1,0 +1,17 @@
+Name: Mickey Mouse
+Age: 35 years
+State: Arizona
+
+Name: Hulk Hogan
+Age: 50 years
+State: Virginia
+
+Name: Roger Rabbit
+Age: 22 years
+State: California
+
+Name: Wonder Woman
+Age: 18 years
+State: Montana
+
+Average age: 31
